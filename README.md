@@ -22,6 +22,11 @@ pip install pandas pymongo langchain langchain-community
   ```bash
   mongod
   ```
+- **Install Ollama Locally**
+  My system RAM is 4GB. Ollama models like mistral, gemma, llama2:7b (high parametered models) are not supported to my system which performs complex tasks than tinyllama. So I used tinyllama
+  ```bash
+  ollama pull tinyllama
+  ```
 - **Run the Script**
   ```bash
   python task.py
