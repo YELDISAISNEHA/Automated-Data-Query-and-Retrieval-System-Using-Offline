@@ -1,4 +1,4 @@
-Which products in the Electronics category have a rating of 4.5 or higher and are
+# Which products in the Electronics category have a rating of 4.5 or higher and are
 in stock?
 
 ProductID,ProductName,Category,Price,Rating,ReviewCount,Stock,Discount,Brand,LaunchDate
