@@ -1,3 +1,4 @@
+# What are the products with a price greater than $50?
 ProductID,ProductName,Category,Price,Rating,ReviewCount,Stock,Discount,Brand,LaunchDate
 102,Gaming Keyboard,Electronics,75.49,4.7,350,85,5%,Corsair,20-11-2021
 103,Noise Cancelling Headphones,Electronics,199.99,4.8,125,60,15%,Sony,05-09-2021
