@@ -1,4 +1,4 @@
-Find all products with a rating below 4.5 that have more than 200 reviews and
+# Find all products with a rating below 4.5 that have more than 200 reviews and
 are offered by the brand 'Nike' or 'Sony'.
 
 ProductID,ProductName,Category,Price,Rating,ReviewCount,Stock,Discount,Brand,LaunchDate
