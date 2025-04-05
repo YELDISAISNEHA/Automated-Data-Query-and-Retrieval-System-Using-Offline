@@ -1,3 +1,6 @@
+Which products in the Electronics category have a rating of 4.5 or higher and are
+in stock?
+
 ProductID,ProductName,Category,Price,Rating,ReviewCount,Stock,Discount,Brand,LaunchDate
 101,Wireless Mouse,Electronics,25.99,4.5,200,150,10%,Logitech,15-01-2022
 102,Gaming Keyboard,Electronics,75.49,4.7,350,85,5%,Corsair,20-11-2021
